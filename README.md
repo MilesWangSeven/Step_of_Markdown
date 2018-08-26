@@ -34,9 +34,11 @@ _This text is italicized_
 
 ## Quoting text
 You can quote text with `>`.
-`In the words of Abraham Lincoln:
-> Pardon my French`
 
+```
+In the words of Abraham Lincoln:
+> Pardon my French
+```
 In the words of Abraham Lincoln:
 >Pardon my French
 
@@ -47,13 +49,12 @@ Use `git stauts` to list all new or modified files that haven't yet been committ
 ```
 Use `git status` to list all new or modified files that haven't yet been committed.
 To format code or text into its own distinct block, use triple backticks.
-`Some basic Git commands are:
-```
+Some basic Git commands are:
+\`\`\`
 git status
 git add
 git commit
-```
-`
+\`\`\`
 
 Some basic Git commands are:
 ```
