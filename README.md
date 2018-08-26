@@ -32,3 +32,32 @@ _This text is italicized_
 `**This text is _extremely_ important**`
 **This text is _extremely_ important**
 
+## Quoting text
+You can quote text with `>`.
+`In the words of Abraham Lincoln:
+> Pardon my French`
+
+In the words of Abraham Lincoln:
+>Pardon my French
+
+## Quoting code
+You can call out code or a command within a sentence with single backticks.The text within the backticks will not be formatted.
+```
+Use `git stauts` to list all new or modified files that haven't yet been committed.
+```
+Use `git status` to list all new or modified files that haven't yet been committed.
+To format code or text into its own distinct block, use triple backticks.
+`Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+`
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
