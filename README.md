@@ -50,7 +50,9 @@ Use `git stauts` to list all new or modified files that haven't yet been committ
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 To format code or text into its own distinct block, use triple backticks.
+
 Some basic Git commands are:
+
 \`\`\`
 git status
 git add
