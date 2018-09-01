@@ -169,3 +169,10 @@ if a task list item description begins with a parenthesis, you'll need to escape
 `- [ ]\(Optional) Open a followup issue`
 
 - [ ] \(Optionla) Open a followup issue
+
+## Ignoring Markdown formatting
+You can use `\` before the Markdown character.
+
+`Let's rename \*our-new-project\* to \*our-old-project\*.`
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
