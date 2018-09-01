@@ -105,3 +105,28 @@ the relative link to 1.png in you README might look like this:
 `[png example](png/1.png)`
 
 [png example](png/1.png)
+
+## Lists
+You can make an unordered list by preceding one or more lines of text with `_` or `*`.
+
+```
+- George Washington
+- John Adams
+- Thomas Jefferson
+```
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+To order your list, precede each line with a number.
+
+```
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+```
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
