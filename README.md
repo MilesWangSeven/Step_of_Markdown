@@ -110,6 +110,10 @@ the relative link to 1.png in you README might look like this:
 
 [![N|Solid](png/1.png)](png/1.png)
 
+Logo
+
+![N|logo](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1535822168710&di=ea9a1979d70ff392d0578587f5fe609c&imgtype=0&src=http%3A%2F%2Fimg.25pp.com%2Fuploadfile%2Fapp%2Ficon%2F20150903%2F1441256258685809.jpg)
+
 ## Lists
 You can make an unordered list by preceding one or more lines of text with `_` or `*`.
 
@@ -183,3 +187,6 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 ## Website
 Preview Markdown in browser, [dillinger](https://dillinger.io/)
+[Markdown-Cheatsheet]
+
+[Markdown-Cheatsheet]:<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
