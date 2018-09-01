@@ -102,6 +102,6 @@ A relative link is a link that is relative to the current file.
 For example,if you have a README file in root of your repository, and you have another image in png/1.png,
 the relative link to 1.png in you README might look like this:
 
-`[png example][png/1.png]`
+`[png example](png/1.png)`
 
-[png example][png/1.png]
+[png example](png/1.png)
