@@ -92,3 +92,16 @@ You can also use the keyboard shortcut `command + K` to create a link.
 
 This site was built using [GitHub Pages](https://pages.github.com)
 
+## Section links
+You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
+
+## Relative links
+You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
+
+A relative link is a link that is relative to the current file.
+For example,if you have a README file in root of your repository, and you have another image in png/1.png,
+the relative link to 1.png in you README might look like this:
+
+`[png example][png/1.png]`
+
+[png example][png/1.png]
