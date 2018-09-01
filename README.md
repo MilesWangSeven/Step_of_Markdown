@@ -166,7 +166,7 @@ To create a task list, preface list item with a regular space character followed
 
 if a task list item description begins with a parenthesis, you'll need to escape it with `\`:
 
-`- [ ]\(Optional) Open a followup issue`
+`- [ ] \(Optional) Open a followup issue`
 
 - [ ] \(Optionla) Open a followup issue
 
