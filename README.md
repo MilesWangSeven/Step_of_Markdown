@@ -54,11 +54,13 @@ To format code or text into its own distinct block, use triple backticks.
 Some basic Git commands are:
 
 \`\`\`
+
 git status
 
 git add
 
 git commit
+
 \`\`\`
 
 Some basic Git commands are:
@@ -66,4 +68,14 @@ Some basic Git commands are:
 git status
 git add
 git commit
+```
+
+\`\`\`python
+for i in range(5):
+    print(i)
+\`\`\`
+
+```python
+for i in range(5):
+    print(i)
 ```
