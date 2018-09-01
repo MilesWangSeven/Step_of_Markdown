@@ -146,7 +146,26 @@ To create a nested list using the web editor on GitHub or a text editor that use
    - First nested item
      - Second nested list item
 
+
 100. First list item
      - First nested list item
        - Second nested list item
 
+## Task lists
+To create a task list, preface list item with a regular space character followed by `[ ]`. To mask a task as complete, use`[x]`.
+
+```
+- [x] Finish my changes
+- [ ] Push my commits to github
+- [ ] Open a pull request
+```
+
+- [x] Finish my changes
+- [ ] Push my commits to github
+- [ ] Open a pull request
+
+if a task list item description begins with a parenthesis, you'll need to escape it with `\`:
+
+`- [ ]\(Optional) Open a followup issue`
+
+- [ ]\(Optionla) Open a followup issue
