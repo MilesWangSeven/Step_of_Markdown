@@ -82,3 +82,13 @@ for i in range(5):
 for i in range(5):
     print(i)
 ```
+
+## Links
+You can create an inline link with wrapping link text in brackets `[]`, 
+and then wrapping the URL in parentheses `()`. 
+You can also use the keyboard shortcut `command + K` to create a link.
+
+`This site was built using [GitHub Pages](https://pages.github.com)`
+
+This site was built using [GitHub Pages](https://pages.github.com)
+
